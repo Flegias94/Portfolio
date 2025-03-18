@@ -25,8 +25,8 @@ export default function Home() {
       >
         <h1 className="text-4xl md:text-5xl font-bold text-white">Welcome to My Portfolio</h1>
         <p className="mt-4 text-lg text-gray-400 max-w-3xl">
-          I'm a passionate developer with experience in building modern web applications.
-          Here you'll find a collection of my projects, ranging from web development to backend systems. 
+          I&apos;m a passionate developer with experience in building modern web applications.
+          Here you&apos;ll find a collection of my projects, ranging from web development to backend systems. 
           Each project showcases different aspects of my skills and problem-solving abilities.
         </p>
       </motion.section>

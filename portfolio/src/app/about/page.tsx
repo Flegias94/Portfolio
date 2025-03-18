@@ -14,7 +14,7 @@ export default function AboutPage() {
       >
         <h1 className="text-4xl md:text-5xl font-bold text-white">About Me</h1>
         <p className="mt-4 text-lg text-gray-400 max-w-3xl">
-          I'm a developer passionate about building modern applications. I specialize in 
+          I&apos;m a developer passionate about building modern applications. I specialize in 
           front-end and back-end development, focusing on performance, accessibility, and
           clean, maintainable code.
         </p>
